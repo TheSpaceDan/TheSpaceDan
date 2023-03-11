@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheSpaceDan
 - 👀 I’m interested in Game Development and Art
-- 🌱 I’m currently learning Unreal and Godot
+- 🌱 I’m currently learning Unreal, Godot, Unity and Blender
 - 📫 How to reach me: Twitter: @thespacedan | Instagram: @the.space.dan | Email: daniyalrana2002@gmail.com
 
 <!---
